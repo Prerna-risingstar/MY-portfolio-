@@ -165,6 +165,18 @@
       "category": "Web",
       "featured": false,
       "sort_order": 8
+    },
+    {
+      "id": "proj-Portfolio-CMS",
+      "title": "Dynamic Portfolio CMS",
+      "description": "A full-stack, dynamic portfolio content management system built with Next.js, React, Tailwind CSS. Features a complete admin dashboard for managing profile details, skills, experiences, projects, and certifications in real-time.",
+      "tech_stack": ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+      "image_url": "/project-portfolio-cms.png",
+      "github_url": "https://github.com/Prerna-risingstar/MY-portfolio-",
+      "live_url": "https://my-portfolio-phi-sepia-53.vercel.app/",
+      "category": "Web",
+      "featured": true,
+      "sort_order": 9
     }
   ],
   "certifications": [
