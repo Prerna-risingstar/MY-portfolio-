@@ -1,0 +1,238 @@
+{
+  "profile": {
+    "id": "1",
+    "name": "Prerna Patel",
+    "role": "Frontend-Backend Intern",
+    "bio": "Aspiring Web Developer with a strong focus on frontend development and interest in building responsive web applications. Skilled in React and Next.js with basic backend knowledge using Node.js and Flask, along with REST API integration.",
+    "about_me": "I'm a passionate Full Stack Developer who enjoys building modern, user-friendly web applications. I love turning ideas into functional digital solutions, working across both frontend and backend technologies. I'm always eager to learn, improve my skills, and create experiences that are both efficient and impactful.",
+    "interests": [
+      "Full Stack Development",
+      "React & Next.js",
+      "UI/UX Design",
+      "Open Source",
+      "Problem Solving",
+      "Artificial Intelligence"
+    ],
+    "career_objective": "To contribute to innovative projects, solve real-world problems through technology, and grow as a developer while building high-quality applications that make a meaningful difference.",
+    "profile_picture_url": "/profile-photo.jpg",
+    "resume_url": "/PRERNA_PATEL_RESUME.pdf",
+    "github_url": "https://github.com/Prerna-risingstar",
+    "linkedin_url": "https://linkedin.com/in/prerna-patel-2709082b4",
+    "email": "prernapatel2020@gmail.com",
+    "updated_at": null
+  },
+  "skills": [],
+  "experiences": [
+    {
+      "id": "1",
+      "company": "International Institute of SDGs & Public Policy Research (IISPPR)",
+      "position": "Frontend-Backend Intern",
+      "duration": "June 2026 - Present",
+      "start_date": "2026-06-01",
+      "end_date": null,
+      "is_current": true,
+      "description": [
+        "Collaborate with team to design and implement web app features",
+        "Write clean, efficient code for performance and scalability",
+        "Conduct testing and debugging to ensure code quality",
+        "Work with UX/UI designers for seamless user experience"
+      ],
+      "offer_letter_url": "/sdg-offer-letter.png",
+      "sort_order": 1
+    },
+    {
+      "id": "2",
+      "company": "InAmigos Foundation",
+      "position": "Web Development Intern",
+      "duration": "2 May 2026 - 16 May 2026",
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-16",
+      "is_current": false,
+      "description": [
+        "Built responsive websites using HTML, CSS, JavaScript, Bootstrap",
+        "Worked on UI designs using Figma"
+      ],
+      "certificate_url": "/inamigos-certificate.png",
+      "offer_letter_url": "/inamigos-offer-letter.pdf",
+      "sort_order": 2
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-ai-spend-audit",
+      "title": "ai-spend-audit",
+      "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+      "tech_stack": [],
+      "image_url": "/project-ai-spend-audit.png",
+      "github_url": "https://github.com/Prerna-risingstar/ai-spend-audit",
+      "live_url": "https://ai-spend-audit-liard.vercel.app",
+      "category": "Web",
+      "featured": false,
+      "sort_order": 0
+    },
+    {
+      "id": "proj-Attendance-System",
+      "title": "Attendance-System",
+      "description": " HEAD\n# Face_recognition_based_attendance_system\nA python GUI integrated attendance system using face recognition to take attendance.",
+      "tech_stack": [],
+      "image_url": "/project-attendance-system.png",
+      "github_url": "https://github.com/Prerna-risingstar/Attendance-System",
+      "live_url": null,
+      "category": "Web",
+      "featured": false,
+      "sort_order": 1
+    },
+    {
+      "id": "proj-booking-calendar-heatmap",
+      "title": "booking-calendar-heatmap",
+      "description": "Booking calendar heatmap React app",
+      "tech_stack": [],
+      "image_url": "/project-booking-heatmap.png",
+      "github_url": "https://github.com/Prerna-risingstar/booking-calendar-heatmap",
+      "live_url": null,
+      "category": "Web",
+      "featured": false,
+      "sort_order": 2
+    },
+    {
+      "id": "proj-Next-Gen-learning---NovaLearn",
+      "title": "Next-Gen-learning---NovaLearn",
+      "description": "# NovaLearn - Student Dashboard 🚀",
+      "tech_stack": [],
+      "image_url": "/project-novalearn.png",
+      "github_url": "https://github.com/Prerna-risingstar/Next-Gen-learning---NovaLearn",
+      "live_url": "https://next-gen-learning-nova-learn.vercel.app",
+      "category": "Web",
+      "featured": false,
+      "sort_order": 3
+    },
+    {
+      "id": "proj-Prerna-risingstar",
+      "title": "Prerna-risingstar",
+      "description": "Config files for my GitHub profile.",
+      "tech_stack": [],
+      "image_url": "/project-prerna-risingstar.png",
+      "github_url": "https://github.com/Prerna-risingstar/Prerna-risingstar",
+      "live_url": "https://github.com/Prerna-risingstar",
+      "category": "Web",
+      "featured": false,
+      "sort_order": 4
+    },
+    {
+      "id": "proj-Price-Comparison",
+      "title": "Price-Comparison",
+      "description": "Price Comparison Web App",
+      "tech_stack": [],
+      "image_url": "/project-price-comparison.png",
+      "github_url": "https://github.com/Prerna-risingstar/Price-Comparison",
+      "live_url": null,
+      "category": "Web",
+      "featured": false,
+      "sort_order": 5
+    },
+    {
+      "id": "proj-QUESTION-PAPER-GENERATOR",
+      "title": "QUESTION-PAPER-GENERATOR",
+      "description": "# 🏛️ AI-Powered College Question Paper Generator",
+      "tech_stack": [],
+      "image_url": "/project-questionpaper.png",
+      "github_url": "https://github.com/Prerna-risingstar/QUESTION-PAPER-GENERATOR",
+      "live_url": "https://question-paper-generator-six.vercel.app/login",
+      "category": "Web",
+      "featured": false,
+      "sort_order": 6
+    },
+    {
+      "id": "proj-restaurant-app",
+      "title": "restaurant-app",
+      "description": "# 🍽️ Terrace Grill - Restaurant Management App",
+      "tech_stack": [],
+      "image_url": "/project-restaurant.png",
+      "github_url": "https://github.com/Prerna-risingstar/restaurant-app",
+      "live_url": "https://restaurant-app-oqyq.vercel.app/",
+      "category": "Web",
+      "featured": false,
+      "sort_order": 7
+    },
+    {
+      "id": "proj-SMART-LEAD-DASHBOARD",
+      "title": "SMART-LEAD-DASHBOARD",
+      "description": "# 📊 Smart Leads Dashboard ",
+      "tech_stack": [],
+      "image_url": "/project-smartlead.png",
+      "github_url": "https://github.com/Prerna-risingstar/SMART-LEAD-DASHBOARD",
+      "live_url": "https://smart-lead-dashboard-khaki.vercel.app",
+      "category": "Web",
+      "featured": false,
+      "sort_order": 8
+    }
+  ],
+  "certifications": [
+    {
+      "id": "1",
+      "title": "Google Data Analytics",
+      "issuer": "Coursera",
+      "year": "2026",
+      "certificate_url": null,
+      "image_url": null,
+      "sort_order": 1
+    },
+    {
+      "id": "2",
+      "title": "AI Tools & ChatGPT Specialization",
+      "issuer": "CertX",
+      "year": "2026",
+      "certificate_url": "https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971188634",
+      "image_url": null,
+      "sort_order": 2
+    },
+    {
+      "id": "3",
+      "title": "Skillshop Digital Marketing Certification",
+      "issuer": "Skillshop",
+      "year": "2026",
+      "certificate_url": "https://skillshop.exceedlms.com/student/award/N9dSyjTrPLxXZb2mn1BDUpjr",
+      "image_url": null,
+      "sort_order": 3
+    },
+
+    {
+      "id": "4",
+      "title": "Project Management Foundations: Requirements",
+      "issuer": "LinkedIn Learning",
+      "year": "2026",
+      "certificate_url": "https://lnkd.in/dXTVwPcX",
+      "image_url": null,
+      "sort_order": 4
+    },
+    {
+      "id": "5",
+      "title": "Project Management Foundations: Ethics",
+      "issuer": "LinkedIn Learning",
+      "year": "2026",
+      "certificate_url": "https://lnkd.in/dQhMQ83r",
+      "image_url": null,
+      "sort_order": 5
+    },
+    {
+      "id": "6",
+      "title": "Project Management Foundations",
+      "issuer": "LinkedIn Learning",
+      "year": "2026",
+      "certificate_url": "https://lnkd.in/d87ACb6N",
+      "image_url": null,
+      "sort_order": 6
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "degree": "B.Tech Computer Science Engineering",
+      "institution": "G.D. Goenka University, Sohna, Gurugra",
+      "duration": "2023 – 2027",
+      "cgpa": "8.9",
+      "sort_order": 1
+    }
+  ],
+  "achievements": []
+}
