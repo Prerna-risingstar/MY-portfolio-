@@ -1,36 +1,95 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+ 🌐 Prerna Patel Portfolio
 
-## Getting Started
+A modern and responsive personal portfolio built to showcase my projects, technical skills, certifications, and journey as a Web Developer.
 
-First, run the development server:
+Designed with a focus on clean user experience, performance, and modern web development practices, this portfolio serves as a central place to explore my work, achievements, and professional background.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 Live Website: https://my-portfolio-phi-sepia-53.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Highlights
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Modern and responsive design
+- Interactive and user-friendly interface
+- Project showcase with detailed information
+- Technical skills and technology stack
+- Certifications and achievements section
+- Contact and social media integration
+- Optimized for performance and accessibility
+- Mobile-first experience
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ 🛠 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Frontend
+- Next.js
+- React.js
+- TypeScript
+- Tailwind CSS
 
-## Deploy on Vercel
+# Development Tools
+- Git
+- GitHub
+- Vercel
+- VS Code
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+#📌 Portfolio Sections
+
+# 🏠 Home
+A quick introduction, professional summary, and overview of my work.
+
+#👩‍💻 About Me
+Information about my background, interests, and career goals in web development.
+
+#⚡ Skills
+A showcase of technologies, frameworks, and tools I use to build modern web applications.
+
+# 🚀 Projects
+Featured projects demonstrating practical experience in frontend and full-stack development.
+
+# 🏆 Certifications
+Professional certifications and learning achievements that support my technical growth.
+
+# 📞 Contact
+Easy ways to connect with me for opportunities, collaborations, or professional networking.
+
+---
+
+# 🎯 Purpose
+
+This portfolio was created to:
+
+- Showcase my development skills and projects
+- Present my technical experience in a professional manner
+- Build a strong online presence
+- Share my learning journey and achievements
+- Connect with recruiters, developers, and potential collaborators
+
+---
+
+# 📈 Key Focus Areas
+
+- Frontend Development
+- Full Stack Development
+- Responsive Web Design
+- UI/UX Implementation
+- Performance Optimization
+- Modern JavaScript Frameworks
+
+---
+
+#👤 Author
+
+### Prerna Patel
+
+Passionate Web Developer focused on building responsive, accessible, and user-friendly web applications using modern technologies.
+
+📧 Email: prernapatel2020@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/prerna-patel-2709082b4
+
+🌐 Portfolio: https://my-portfolio-phi-sepia-53.vercel.app
